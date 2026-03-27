@@ -171,12 +171,16 @@ Main collections:
 
 ---
 
-## Author
-
-Ravi Raj Gupta
-
----
-
 ## Summary
 
 This project demonstrates backend development skills including API design, authentication, middleware usage, and database management. It is suitable for learning purposes and portfolio presentation.
+
+---
+
+## Author
+
+**Ravi Raj Gupta**  
+Backend Developer specializing in Node.js, Express, and MongoDB  
+
+If you found this project helpful, please consider giving it a star ⭐
+---
